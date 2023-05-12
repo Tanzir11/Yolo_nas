@@ -12,7 +12,6 @@ To install the dependencies, run the following command in the terminal:
 
 pip install -r requirements.txt
 
-Code snippet
 
 ## Usage
 
