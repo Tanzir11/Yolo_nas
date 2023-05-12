@@ -1,4 +1,5 @@
-# Yolo_nas
+# YOLO_NAS
+
 Object Detection with YOLO_nas
 This repository contains two files:
 
@@ -13,25 +14,18 @@ Code snippet
 
 ## Usage
 
-To run the custom object detection code, run the following command in the terminal:
+To run the custom object detection code, open the `yolo_nas_custom.ipynb` file in Jupyter Notebook.
 
-Use code with caution. Learn more
-python yolo_nas_custom.ipynb
+To run the YouTube object detection code, open the `yolo_nas.ipynb` file in Jupyter Notebook.
 
-This will open a window where you can select the image or video file that you want to detect objects in.
+## License
 
-To run the YouTube object detection code, run the following command in the terminal:
-
-python yolo_nas.ipynb
-
-This will open a window where you can enter the URL of the YouTube video that you want to detect objects in.
-Also you will need a Youtube id which is just google search away
-
-License
 This project is licensed under the MIT License.
 
-Contributing
+## Contributing
+
 If you would like to contribute to this project, please feel free to open a pull request.
 
-Contact
+## Contact
+
 If you have any questions or feedback, please feel free to contact me at [tanzeer.khan98@gmail.com].
