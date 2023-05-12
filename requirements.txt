@@ -1,0 +1,7 @@
+super-gradients==3.1.0
+imutils
+roboflow
+pytube --upgrade
+torchinfo
+torch==2.0.0
+torchvision==0.15.1
