@@ -4,8 +4,10 @@ Object Detection with YOLO_nas
 This repository contains two files:
 
 yolo_nas_custom.ipynb - This file contains code for custom object detection using YOLO_nas.
+
 yolo_nas.ipynb - This file contains code for fetching a video from YouTube, downloading it, and performing object detection using YOLO_nas on the COCO dataset.
 Installation
+
 To install the dependencies, run the following command in the terminal:
 
 pip install -r requirements.txt
